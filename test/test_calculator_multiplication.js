@@ -1,7 +1,7 @@
 'use strict';
 
 const { assert } = require('chai');
-const { multiply } = require('./');
+const { multiply } = require('../');
 
 describe('multiply()', () => {
   it('should multiply positive numbers together', () => {
