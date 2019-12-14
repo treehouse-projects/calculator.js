@@ -9,8 +9,8 @@
   "keywords": [
     "calculator"
   ],
-  "author": "Andrew Chalkley <andrew@chalkley.org> (http://forefront.io/)",
-  "license": "MIT",
+  "author": "Mohamad .farhani",
+  "license": "so0oshiance",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.0.2"
